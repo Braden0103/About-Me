@@ -8,5 +8,7 @@ This Website will tell you many things about me, Braden Smith.
 
 This next page will tell you about my Favorite Hobby Pc Building.
 
+![](https://www.cyberpowerpc.com/images/cs/inwin101/cs-450-132_400.png)
+
  [**My favorite Hobby**](https://github.com/Braden0103/About-Me/blob/master/Favorite%20Hobby.md)
 
