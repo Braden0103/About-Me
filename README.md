@@ -2,6 +2,7 @@
 
 This Website will tell you many things about me, Braden Smith.
 
+![a](https://media.giphy.com/media/6pfEK1odbmcNi/giphy.gif)
 
 [**Background Info**](https://github.com/Braden0103/About-Me/blob/master/Background%20Info.md)
 
