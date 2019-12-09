@@ -2,7 +2,7 @@
 Hello my name is Braden Smith. I am an 18 year old Student that is currently enrolled at Mizzou. I was born in Columbia in the year 2001. I lived in Columbia for several years before moving to a small town north of Columbia. This happened at around the age of 8. I have lived in the same house since then.  I have many hobbies and interest some of you will learn about on other pages in this website. 
 
 
-![**The hospital I was born in**](file:///D:/New%20folder%20(2)/boone.jpg)
+![**The hospital I was born in**](http://www.missouribusinessalert.com/wp-content/uploads/2013/09/9219227714_8cbc4ce393_z-640x445.jpg)
 
 ## More info about me
 
