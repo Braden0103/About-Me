@@ -16,3 +16,5 @@ This is a very simple list of PC parts that total to around 1000 dollars dependi
 ![](https://i5.walmartimages.com/asr/82cb072c-ba60-4d6c-ba5a-f0fae68d153d_1.4babd882c68eb2135efd0100e20f5add.jpeg?odnWidth=450&odnHeight=450&odnBg=ffffff)
 
 I currently have a PC build going with many of the parts listed above.
+
+[Main Page](https://github.com/Braden0103/About-Me)
