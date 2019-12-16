@@ -18,4 +18,4 @@ This next page will tell you about my Favorite Hobby Pc Building.
 
 [**Another Hobby**](https://github.com/Braden0103/About-Me/blob/master/Another%20Interest.md)
 
-[**Coding**](
+[**Coding**](https://github.com/Braden0103/About-Me/blob/master/Coding.md)
