@@ -1,6 +1,6 @@
 ﻿## My favorite hobby is PC building
 
-I am currently building a new PC rig for school and gaming. A lot of people are scared to build their own personal computer. I found with a few hours of research its actually very simple to make a good gaming/workstation computer. The first part to building the computer is to identify your needs. My needs were a PC that excels at gaming and light workstation tasks. The next part is set a budget for your entire build. My budget was around 1000 dollars. 
+I am currently building a new PC rig for school and gaming. A lot of people are scared to build their own personal computer. I found with a few hours of research its actually very simple to make a good gaming/workstation computer. The first part to building the computer is to identify your needs. My needs were a PC that excels at gaming and light workstation tasks. The next part is set a budget for your entire build. My budget was around 1000 dollars.
 ## **Different part choices**
 
 CPU Choices| Intel 9600k | AMD 3600 |
