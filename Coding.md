@@ -1,4 +1,4 @@
-##Coding is another thing that enjoy.
+# Coding is another thing that enjoy.
  
 
 3.  `# This function adds two numbers`
