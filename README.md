@@ -14,7 +14,7 @@ This next page will tell you how to get started when changing your computers res
  
 
  
- ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/100_NFL_seasons_logo.svg/1200px-100_NFL_seasons_logo.svg.png)
+
 
 [**A step by step video incase you get lost**](https://github.com/Braden0103/About-Me/blob/master/Another%20Interest.md)
 
