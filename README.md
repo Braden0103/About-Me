@@ -1,6 +1,6 @@
 # About-Me
 
-This Website will tell you many things about me, Braden Smith.
+Hello I'm Braden Smith. In this tutorial I will show you how to change your computers resolution.
 
 ![a](https://media.giphy.com/media/6pfEK1odbmcNi/giphy.gif)
 
